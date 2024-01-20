@@ -1,6 +1,7 @@
-markdown
-Copy code
-# 🅱🅻🅰🆀's Resume Expert
+
+# Resume Expert
+
+### Powered by 🅱🅻🅰🆀
 
 ![image](https://github.com/Blaqadonis/application_tracking_system/assets/100685852/04eac7cf-f317-430d-81ee-8847b9c9db31)  ![image](https://github.com/Blaqadonis/application_tracking_system/assets/100685852/38921903-dab3-4f0d-840f-5932c259a5cd)
 
