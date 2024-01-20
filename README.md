@@ -19,7 +19,7 @@
 
 ## Installation
 1. Clone the repository:
-```git clone https://github.com/Blaqadonis/resume-expert-bot.git```
+```git clone https://github.com/Blaqadonis/application_tracking_system.git```
 
 2. Navigate to the project directory:
 ```cd resume-expert-bot```
